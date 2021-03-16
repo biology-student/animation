@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6E21A5F3-7FE1-93CF-CA5C-E11E811DF4C9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Unity/ConstraintSamples/Scripts/mParent.cs">
+    <Files>
+      <File FileName="Assets/Controller.cs" Line="14" Column="6" />
+      <File FileName="Assets/Unity/ConstraintSamples/Scripts/mParent.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c45c028f-5d9b-4d42-8201-052af3822a7e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
