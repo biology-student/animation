@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D1EC4BD8-E0E2-953C-140F-E2553F737E90}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CubeB.cs">
+    <Files>
+      <File FileName="Assets/CubeA.cs" Line="36" Column="126" />
+      <File FileName="Assets/CubeB.cs" Line="8" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c45c028f-5d9b-4d42-8201-052af3822a7e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
