@@ -64,8 +64,80 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\BlendScripts\CubeA.cs" />
-    <Compile Include="Assets\BlendScripts\CubeB.cs" />
+    <Compile Include="Assets\Scripts\BlendScripts\CubeA.cs" />
+    <Compile Include="Assets\Scripts\BlendScripts\CubeB.cs" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Extensions.Design.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Engine.xml" />
+    <None Include="Assets\Ludiq\Bolt\Documentation\0. READ ME FIRST.txt" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.xml" />
+    <None Include="Assets\Ludiq\Assemblies\Ludiq.Platforms.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\mscorlib.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Security.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Framework.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Core.xml" />
+    <None Include="Assets\Ludiq\Assemblies\Bolt.Core.Editor.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Routing.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.DirectoryServices.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Configuration.Install.xml" />
+    <None Include="Assets\Ludiq\Assemblies\Bolt.Flow.Runtime.xml" />
+    <None Include="Assets\Ludiq\Assemblies\Bolt.Core.Runtime.xml" />
+    <None Include="Assets\Ludiq\Assemblies\Ludiq.Graphs.Runtime.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Entity.Design.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.ServiceModel.Web.xml" />
+    <None Include="Assets\Ludiq\Assemblies\Bolt.State.Runtime.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Entity.Design.xml" />
+    <None Include="Assets\Ludiq\Assemblies\Ludiq.Core.Runtime.xml" />
+    <None Include="Assets\Ludiq\Assemblies\YamlDotNet.xml" />
+    <None Include="Assets\Ludiq\Assemblies\MiscUtil.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Printing.xml" />
+    <None Include="Assets\Install Bolt\README.txt" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Management.Instrumentation.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Services.Client.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Services.Design.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Runtime.Remoting.xml" />
+    <None Include="Assets\Ludiq\Assemblies\Bolt.Flow.Editor.xml" />
+    <None Include="Assets\Ludiq\Bolt\LICENSES.txt" />
+    <None Include="Assets\Ludiq\Assemblies\Ludiq.Graphs.Editor.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Xml.Linq.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Utilities.v3.5.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Conversion.v3.5.xml" />
+    <None Include="Assets\Ludiq\Assemblies\Ludiq.Core.Editor.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Management.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Configuration.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Messaging.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.AddIn.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Linq.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.DynamicData.Design.xml" />
+    <None Include="Assets\Ludiq\Assemblies\Ionic.Zip.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Extensions.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.DynamicData.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.ServiceProcess.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.EnterpriseServices.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.IdentityModel.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.VisualC.STLCLR.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.ServiceModel.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Deployment.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Transactions.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Windows.Forms.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Services.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.DataSetExtensions.xml" />
+    <None Include="Assets\Ludiq\Assemblies\Bolt.State.Editor.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Runtime.Serialization.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Services.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.WorkflowServices.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.AddIn.Contract.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.DirectoryServices.AccountManagement.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Runtime.Serialization.Formatters.Soap.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Entity.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.ComponentModel.DataAnnotations.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Abstractions.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Entity.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Drawing.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Net.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.SqlXml.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Windows.Presentation.xml" />
+    <None Include="Assets\Ludiq\Ludiq.Core\DotNetDocumentation\System.Xml.xml" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.20f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -248,6 +320,51 @@
     </Reference>
     <Reference Include="UnityEditor">
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.20f1/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="Bolt.Flow.Editor">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Bolt.State.Runtime">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Bolt.State.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="Bolt.Core.Editor">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Ludiq.Core.Runtime">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="YamlDotNet">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/YamlDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="MiscUtil">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/MiscUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="Ludiq.Graphs.Runtime">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Ludiq.Platforms">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Ludiq.Platforms.dll</HintPath>
+    </Reference>
+    <Reference Include="Ludiq.Graphs.Editor">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Ludiq.Core.Editor">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Bolt.State.Editor">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Bolt.State.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Bolt.Core.Runtime">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Bolt.Flow.Runtime">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Unsafe">
       <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/PackageCache/com.unity.burst@1.1.1/Unity.Burst.Unsafe.dll</HintPath>
@@ -600,11 +717,20 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst.Editor">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Animation.Rigging">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.Animation.Rigging.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
@@ -618,21 +744,6 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst">
-      <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst.Editor">
-      <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Animation.Rigging">
-      <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.Animation.Rigging.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Mathematics">
       <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
@@ -641,6 +752,12 @@
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
       <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>/Users/tsuka/Unity/animation/original_animation/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
