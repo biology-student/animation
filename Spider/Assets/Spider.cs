@@ -6,16 +6,13 @@ public class Spider : MonoBehaviour
 {
 
     public Transform leftFootTarget;
-
     private Vector3 initLeftFootPos;
-
     private Vector3 lastLeftFootPos;
     
     
     void Start()
     {
         initLeftFootPos = leftFootTarget.localPosition;
-
         lastLeftFootPos = leftFootTarget.position;
     }
 
@@ -23,7 +20,6 @@ public class Spider : MonoBehaviour
     void Update()
     {
         leftFootTarget.position = lastLeftFootPos;
-
         lastLeftFootPos = leftFootTarget.position;
     }
 }
