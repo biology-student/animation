@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7A680043-78CA-1098-9E54-050D21BEBD45}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Spider.cs">
+    <Files>
+      <File FileName="Assets/Spider.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c45c028f-5d9b-4d42-8201-052af3822a7e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
