@@ -6,7 +6,7 @@ public class LegTarget : MonoBehaviour
 {
     Ray rayDown;
     GameObject legGroundTarget;
-    GameObject spider;
+    // GameObject spider;
     LayerMask mask;
 
     private void Start()
